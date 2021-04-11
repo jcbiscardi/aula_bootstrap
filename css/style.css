@@ -1,0 +1,32 @@
+body {
+    font: 18px "segoe UI", serif;
+}
+
+.navbar {
+    background-color: #e9e9e9 ;
+}
+
+.quem-somos {
+    background-color: #edf0ec ;
+    color: teal;
+}
+
+.parceiros {
+    background-color: #d2e2cd  ;
+    color: teal;
+}
+
+.servicos {
+    background-color: #edf0ec  ;
+    color: teal;
+}
+
+.margin {
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.bg-footer {
+    background-color: black;
+    color:rgb(195, 196, 195);
+}
